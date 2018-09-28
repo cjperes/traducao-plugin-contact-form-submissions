@@ -1,0 +1,110 @@
+# Copyright (C) 2015 Contact Form Submissions
+# This file is distributed under the same license as the Contact Form Submissions package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact Form Submissions 1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/contact-form-"
+"submissions\n"
+"POT-Creation-Date: 2015-11-22 15:34:14+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-09-28 15:19+0000\n"
+"Last-Translator: fofuraadmin <caio@bbcreative.org>\n"
+"Language-Team: Português do Brasil\n"
+"Language: pt-BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: Admin.php:24 Admin.php:39 Admin.php:199
+msgid "Submitted"
+msgstr "Enviado:"
+
+#: Admin.php:39
+msgid "Published"
+msgstr "Publicado"
+
+#: Admin.php:63 Admin.php:111 Admin.php:161
+msgid "Contact Form"
+msgstr "Formulário"
+
+#: Admin.php:86
+msgid "View"
+msgstr "Ver"
+
+#: Admin.php:110 Submissions.php:13 Submissions.php:14 Submissions.php:16 
+#: Submissions.php:17 Submissions.php:23
+msgid "Submission"
+msgstr "Contatos"
+
+#: Admin.php:112
+msgid "Date"
+msgstr "Data"
+
+#: Admin.php:144
+msgid "Mail"
+msgstr "E-mail"
+
+#: Admin.php:145
+msgid "Overview"
+msgstr "Visão geral"
+
+#: Admin.php:165
+msgid "Sender"
+msgstr "De"
+
+#: Admin.php:169
+msgid "Recipient"
+msgstr "Destinatário"
+
+#: Admin.php:173
+msgid "Subject"
+msgstr "Assunto"
+
+#: Admin.php:177
+msgid "Body"
+msgstr "E-mail"
+
+#: Admin.php:182
+msgid "Additional Headers"
+msgstr "Adicionais"
+
+#: Admin.php:192
+msgid "M j, Y @ H:i"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Contact Form Submissions 1.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: Submissions.php:12
+msgid "Contact Form Submissions"
+msgstr "CF Envios"
+
+#: Submissions.php:15
+msgid "Submissions"
+msgstr "E-mails armazenados"
+
+#: Submissions.php:18
+msgid "Search"
+msgstr "Buscar"
+
+#: Submissions.php:19
+msgid "Not found"
+msgstr "Vazio "
+
+#: Submissions.php:20
+msgid "Not found in Trash"
+msgstr "Vazio"
+
+#: Submissions.php:24
+msgid "Post Type Description"
+msgstr "Descrição do post type"
+
+#. Description of the plugin/theme
+msgid ""
+"Never miss an enquiry again! Save all Contact Form 7 submissions in your "
+"database."
+msgstr "Não perca mas nenhum contato, salve todos no banco de dados!"
+
+#. Author of the plugin/theme
+msgid "Jason Green"
+msgstr ""
